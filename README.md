@@ -4,5 +4,5 @@ Bu depo, Veri Yapıları laboratuvarı dersi kapsamında dönem boyunca gerçekl
 
 ## Haftalar
 
-* **Hafta-2:** Tek Yönlü Bağlı Liste (Singly Linked List) Temelleri, Düğüm Oluşturma, Ekleme, Silme ve Arama İşlemleri.
+* **Hafta-2:** Tek Yönlü Bağlı Liste (Singly Linked List) 
 * *(İlerleyen haftalarda yeni hafta klasörleri buraya eklenecektir.)*
