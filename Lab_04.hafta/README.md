@@ -1,4 +1,4 @@
-# Veri Yapıları Lab: Bağlı Liste, Stack ve Queue Soruları
+# Veri Yapıları Lab 4.Hafta: Bağlı Liste, Stack ve Queue Soruları
 
 ---
 
