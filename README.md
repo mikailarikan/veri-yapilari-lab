@@ -10,4 +10,5 @@ Bu depo, Veri Yapıları laboratuvarı dersi kapsamında dönem boyunca gerçekl
 * **Hafta-5:** Kuyruk, Yığın ve Bağlı Liste (Hastane Hasta Takip Sistemi)
 * **Hafta-6:** İkili Arama Ağaçları (BST Oluşturma, Inorder Dolaşma, Ağaçta Arama ve Minimum Değer Bulma)
 * **Hafta-7:** İkili Arama Ağaçları (Hazine Ağacı Oyunu, Rekürsif Arama ve Ağaç Yüksekliği)
+* **Hafta-9:** Dengeli Arama Ağaçları - AVL Tree (Denge Faktörü Hesaplama, Tek ve Çift Rotasyonlar, LL-RR-LR-RL Durumları)
 * *(İlerleyen haftalarda yeni hafta klasörleri buraya eklenecektir.)*
