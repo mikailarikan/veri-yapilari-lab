@@ -12,4 +12,5 @@ Bu depo, Veri Yapıları laboratuvarı dersi kapsamında dönem boyunca gerçekl
 * **Hafta-7:** İkili Arama Ağaçları (Hazine Ağacı Oyunu, Rekürsif Arama ve Ağaç Yüksekliği)
 * **Hafta-9:** Dengeli Arama Ağaçları - AVL Tree (Denge Faktörü Hesaplama, Tek ve Çift Rotasyonlar, LL-RR-LR-RL Durumları)
 * **Hafta-10:** Graflar ve Arama Algoritmaları (Komşuluk Matrisi ile Graf Modelleme, BFS ve DFS Dolaşımı)
+* **Hafta-11:** Graf Özellikleri ve En Kısa Yol Algoritmaları (Bipartite Graf Kontrolü, Dijkstra Algoritması ve Merkezi Düğüm Analizi)
 * *(İlerleyen haftalarda yeni hafta klasörleri buraya eklenecektir.)*
